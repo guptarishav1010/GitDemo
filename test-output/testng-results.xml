@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-03-17T16:07:23 IST" name="Suite" finished-at="2021-03-17T16:07:23 IST" duration-ms="213">
+    <groups>
+    </groups>
+    <test started-at="2021-03-17T16:07:23 IST" name="Test" finished-at="2021-03-17T16:07:23 IST" duration-ms="213">
+      <class name="com.j.Maven.RestAPITest">
+        <test-method signature="sullu3()[pri:0, instance:com.j.Maven.RestAPITest@48aaecc3]" started-at="2021-03-17T16:07:23 IST" name="sullu3" finished-at="2021-03-17T16:07:23 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sullu3 -->
+      </class> <!-- com.j.Maven.RestAPITest -->
+      <class name="com.j.Maven.AppiumTest">
+        <test-method signature="slenium1()[pri:0, instance:com.j.Maven.AppiumTest@60d8c9b7]" started-at="2021-03-17T16:07:23 IST" name="slenium1" finished-at="2021-03-17T16:07:23 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- slenium1 -->
+        <test-method signature="sullu1()[pri:0, instance:com.j.Maven.AppiumTest@60d8c9b7]" started-at="2021-03-17T16:07:23 IST" name="sullu1" finished-at="2021-03-17T16:07:23 IST" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sullu1 -->
+      </class> <!-- com.j.Maven.AppiumTest -->
+      <class name="com.j.Maven.SeleniumTest">
+        <test-method signature="slenium2()[pri:0, instance:com.j.Maven.SeleniumTest@3967e60c]" started-at="2021-03-17T16:07:23 IST" name="slenium2" finished-at="2021-03-17T16:07:23 IST" duration-ms="25" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- slenium2 -->
+        <test-method signature="sullu2()[pri:0, instance:com.j.Maven.SeleniumTest@3967e60c]" started-at="2021-03-17T16:07:23 IST" name="sullu2" finished-at="2021-03-17T16:07:23 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sullu2 -->
+      </class> <!-- com.j.Maven.SeleniumTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
